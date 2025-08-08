@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mohammad Masum Hossain
-#### FullStack Developer
+#### MERN Developer
 Passionate MERN stack developer specializing in building secure, scalable, and user-friendly web applications. Experienced with React, Node.js, MongoDB, Firebase Auth, and Stripe integration. Always eager to learn and create impactful projects.
 
  - 💬 Ask me about **Web Development**
